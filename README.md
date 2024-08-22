@@ -36,7 +36,3 @@ Jika Anda ingin berkontribusi pada projek ini, silakan lakukan pull request deng
 #### hastag 4
 
 ###### hastag 6
-
-<img src="./img/Screenshot_2.png">
-<a href="https://youtube.com">link youtube</a>
-<video src="./video/contoh_video.mp4" controls></video>
